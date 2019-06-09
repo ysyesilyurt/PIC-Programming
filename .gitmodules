@@ -1,3 +1,6 @@
 [submodule "SpaceImpact"]
 	path = SpaceImpact
 	url = git@github.com:ysyesilyurt/SpaceImpact.git
+[submodule "RTOS"]
+	path = RTOS
+	url = git@github.com:ysyesilyurt/RTOS.git
