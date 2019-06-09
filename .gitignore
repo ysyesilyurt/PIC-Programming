@@ -1,0 +1,4 @@
+*.err
+dist
+debug
+build
