@@ -1,0 +1,3 @@
+[submodule "SpaceImpact"]
+	path = SpaceImpact
+	url = git@github.com:ysyesilyurt/SpaceImpact.git
